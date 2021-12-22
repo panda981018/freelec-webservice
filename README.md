@@ -1,6 +1,6 @@
 # freelec-webservice
 
-## 1장. intelliJ로 스프링 부트 시작하기
+## 1장. IntelliJ로 스프링 부트 시작하기
 ### 1.1 Eclipse에 비해 IntelliJ의 강점
 ```
 - 강력한 추천기능
